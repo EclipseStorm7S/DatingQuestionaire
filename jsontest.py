@@ -2,10 +2,19 @@ class QuestionList:
     Questions = [Question(),Question(),Question()]
 
 class Question:
-    criteriaLow = [0,0,0,0,0,0]
-    criteriaHigh = [0,0,0,0,0,0]
+    criteriaLow = scores()
+    criteriaHigh = scores()
     text = "Is this a test question?"
-    tf = true
-    trueAnswer = [0,0,-0.2,0.1,0,0]
-    falseAnswer = [0,0,0.2,-0.1,0,0]
-    mc = true
+    answers = [answer(),answer(),answer()]
+
+class scores:
+    empathy = 0
+    extroversion = 0
+    patience = 0
+    creativity = 0
+    boldness = 0
+    tact = 0
+
+class answer():
+    text = "ERROR"
+    result = scores()

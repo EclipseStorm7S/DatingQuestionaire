@@ -1,20 +1,94 @@
-//Add questions here in the following formats
-
-[TF] Is this a true or false question?
-{T}
-(area)
-
-[1-5] From one to five, how much do you agree?
-{5}
-(area)
-
-[MC] Is this a multiple choice question?
-1
-2
-3
-4
-{3}
-(area)
-{2}
-(area)
-
+{
+  "Questions": [
+    {
+      "criteriaLow": {
+        "empathy": 0,
+        "extroversion": 0,
+        "patience": 0,
+        "creativity": 0,
+        "boldness": 0,
+        "tact": 0
+      },
+      "criteriaHigh": {
+        "empathy": 1,
+        "extroversion": 1,
+        "patience": 1,
+        "creativity": 1,
+        "boldness": 1,
+        "tact": 1
+      },
+      "text": "Is this a test question?",
+      "answers": [
+        {
+          "text": "YES",
+          "result": {
+            "empathy": 0.1,
+            "extroversion": 0.1,
+            "patience": 0.1,
+            "creativity": 0.1,
+            "boldness": 0.1,
+            "tact": 0.1
+          }
+        },
+        {
+          "text": "NO",
+          "result": {
+            "empathy": -0.1,
+            "extroversion": -0.1,
+            "patience": -0.1,
+            "creativity": -0.1,
+            "boldness": -0.1,
+            "tact": -0.1
+          }
+        }
+      ]
+    },
+    {
+      "criteriaLow": {
+        "empathy": 0.4
+      },
+      "criteriaHigh": {
+        "patience": 0.7
+      },
+      "text": "Is this another test question?",
+      "answers": [
+        {
+          "text": "Yeah sure",
+          "result": {
+            "patience": -0.08
+          }
+        },
+        {
+          "text": "No, stop asking",
+          "result": {
+            "empathy": -0.1,
+            "tact": -0.2
+          }
+        },
+        {
+          "text": "I'm not sure",
+          "result": {
+            "creativity": -0.1
+          }
+        }
+      ]
+    },
+    {
+      "text": "This one doesn't have any criteria or consequences",
+      "answers": [
+        {
+          "text": "Oh true"
+        },
+        {
+          "text": "Wait this isn't a question."
+        },
+        {
+          "text": "Do you understand JSON now?"
+        },
+        {
+          "text": "I sure hope so!"
+        }
+      ]
+    }
+  ]
+}
