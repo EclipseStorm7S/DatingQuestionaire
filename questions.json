@@ -1,0 +1,20 @@
+//Add questions here in the following formats
+
+[TF] Is this a true or false question?
+{T}
+(area)
+
+[1-5] From one to five, how much do you agree?
+{5}
+(area)
+
+[MC] Is this a multiple choice question?
+1
+2
+3
+4
+{3}
+(area)
+{2}
+(area)
+
