@@ -11,10 +11,48 @@
           padding: 0;
           color: #ebebeb;
       }
+
+      #topBar {
+        height: 10vh;
+        width: 100vw;
+        position: absolute;
+        margin: 0%;
+        left:0vw;
+        top:0vh;
+        border-bottom: 3px solid black;
+        background-color: #202020;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.4);
+      }
+      #mainArea {
+        height: 90vh;
+        width: auto;
+        position: absolute;
+        margin: 1%;
+        left:0vw;
+        top:10vh;
+        /*border: 2px solid black;*/
+        background-color: #202020;
+        /*box-shadow: 0 0 10px rgba(0, 0, 0, 0.4);*/
+      }
+
+      h1 {
+          color: #ebebeb;
+          font-size: 15;
+          text-align: center;
+          /*margin-bottom: 20px; /* Space below the title */
+      }
+
     </style>
   </head>
+
+
   <body>
-    <p>test</p>
-    <p>It's been a while since I last used HTML so I'm pretty dang rustty right now. We'll see how this goes!</p>
+    <div id="topBar">
+      <h1>Main website bar here</h1>
+    </div>
+    <div id="mainArea">
+      <p>Test</p>
+      <p>It's been a while since I last used HTML so I'm pretty dang rustty right now. We'll see how this goes!</p>
+    </div>
   </body>
 </html>
