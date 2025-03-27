@@ -7,6 +7,7 @@ async function loadQuestions() {
         const response = await fetch('QuestionsFormatDONOTEDIT.json');
         questions = await response.json();
         displayQuestion();
+        console.error("Everything works!");
     } catch (error) {
         console.error("Error loading questions:", error);
     }
