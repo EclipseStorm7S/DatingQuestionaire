@@ -3,11 +3,12 @@ let currentQuestionIndex = 0;
 
 // Load JSON data
 async function loadQuestions() {
+  console.log("Loading...");
     try {
         const response = await fetch('QuestionsFormatDONOTEDIT.json');
-        console.error("Everything works!");
+        console.log("Everything works!");
         questions = await response.json();
-        console.error("Everything works 2!");
+        console.log("Everything works 2!");
         displayQuestion();
     } catch (error) {
         console.error("Error loading questions:", error);
