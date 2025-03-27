@@ -5,9 +5,10 @@ let currentQuestionIndex = 0;
 async function loadQuestions() {
     try {
         const response = await fetch('QuestionsFormatDONOTEDIT.json');
-        questions = await response.json();
-        displayQuestion();
         console.error("Everything works!");
+        questions = await response.json();
+        console.error("Everything works 2!");
+        displayQuestion();
     } catch (error) {
         console.error("Error loading questions:", error);
     }
