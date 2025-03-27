@@ -36,10 +36,17 @@ function displayQuestion() {
         const li = document.createElement("li");
         li.innerText = answer.text;
         li.addEventListener("click", () => {
-            alert(`You selected: ${answer.text}`);
+          alert(`You selected: ${answer.text}`);
+          adjustValues(answer);
         });
         answerList.appendChild(li);
     });
+}
+
+function adjustValues(dataInput){
+  console.log("Answer has been selected:", dataInput.text);
+  console.log(dataInput);
+  answerEffect = dataInput.result;
 }
 
 // Handle Next Question Button

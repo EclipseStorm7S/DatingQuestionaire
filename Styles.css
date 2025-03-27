@@ -23,6 +23,7 @@ body {
   width: 100vw;
   position: relative;
   margin-left: 40%; auto;
+  margin-top: 10%; auto;
 }
 #mainArea {
   height: 88vh;
