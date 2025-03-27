@@ -3,53 +3,8 @@
   <head>
     <meta charset="UTF-8">
     <title>GH Dating Questionaire</title>
-    <style>
-      body {
-          font-family: 'Georgia', sans-serif;
-          background-color: #222;
-          margin: 0;
-          padding: 0;
-          color: #ebebeb;
-      }
-
-      #topBar {
-        height: 12vh;
-        width: 100vw;
-        position: absolute;
-        margin: 0%;
-        left:0vw;
-        top:0vh;
-        border-bottom: 3px solid black;
-        background-color: #202020;
-        box-shadow: 0 0 10px rgba(0, 0, 0, 0.4);
-        box-sizing: border-box;
-        cursor: wait;
-      }
-      #mainArea {
-        height: 88vh;
-        width: 100vw;
-        position: absolute;
-        padding: 1%;
-        padding-left: 10%;
-        padding-right: 10%;
-        left:0vw;
-        top:12vh;
-        /*border: 2px solid black;*/
-        background-color: #202020;
-        /*box-shadow: 0 0 10px rgba(0, 0, 0, 0.4);*/
-        box-sizing: border-box;
-        cursor: zoom-in;
-      }
-
-      h1 {
-          color: #ebebeb;
-          font-size: 15;
-          text-align: center;
-          cursor: help;
-          /*margin-bottom: 20px; /* Space below the title */
-      }
-
-    </style>
+    <link rel="stylesheet" href="Styles.css">
+    <link rel="questionlist" href="QuestionsFormatDONOTEDIT.json">
   </head>
 
   <body>
@@ -57,9 +12,18 @@
       <h1>Dating Ready!</h1>
     </div>
     <div id="mainArea">
-      <h1>Welcome to the Dating Ready™®© dating proficiency test!</h1>
-      <p>Do you have trouble finding dates, going on dates, asking people out, or coming up with date ideas? Or perhaps are you not even sure where your troubles lie?</p>
-      <p>The Dating Ready™®© dating proficiency test will assess your abilities in areas relating to dating, and offer suggestions on how you can improve! The goal is for you to leave this website more confidennt and capable when it comes to dating!</p>
+
+      <h1>Begin the Test! Good luck!</h1>
+      <div class="quiz-container">
+        <h1>Quiz</h1>
+        <div id="question-container">
+            <p id="question-text"></p>
+            <ul id="answer-list"></ul>
+        </div>
+        <button id="next-button">Next Question</button>
+      </div>
+      <script src="TestEngine.js"></script>
+
     </div>
   </body>
 </html>
