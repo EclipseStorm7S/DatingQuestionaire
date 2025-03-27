@@ -3,12 +3,13 @@ let currentQuestionIndex = 0;
 
 // Load JSON data
 async function loadQuestions() {
-  console.log("Loading...");
+  console.log("Loading questions...");
     try {
-        const response = await fetch('QuestionsFormatDONOTEDIT.json');
-        console.log("Everything works!");
-        questions = await response.json();
-        console.log("Everything works 2!");
+        const response = await fetch('https://raw.githubusercontent.com/EclipseStorm7S/DatingQuestionaire/main/QuestionsFormatDONOTEDIT.json');
+        textver = await response.text();
+        questions = JSON.parse(textver);
+        //console.log(textver);
+        console.log(questions);
         displayQuestion();
     } catch (error) {
         console.error("Error loading questions:", error);
@@ -17,13 +18,15 @@ async function loadQuestions() {
 
 // Display the current question
 function displayQuestion() {
-    if (currentQuestionIndex >= questions.length) {
+    if (currentQuestionIndex >= questions.Questions.length) {
         document.getElementById("question-container").innerHTML = "<h2>Quiz Completed!</h2>";
         document.getElementById("next-button").style.display = "none";
         return;
     }
 
-    const questionData = questions[currentQuestionIndex];
+    console.log(Array.isArray(questions.Questions));
+    const questionData = questions.Questions[currentQuestionIndex];
+    console.log(questionData);
     document.getElementById("question-text").innerText = questionData.text;
 
     const answerList = document.getElementById("answer-list");
