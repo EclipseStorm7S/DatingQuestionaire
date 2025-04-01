@@ -40,6 +40,11 @@ body {
   box-sizing: border-box;
 }
 
+#display {
+    height: 100pixels
+    width: 100pixels
+}
+
 h1 {
     color: #ebebeb;
     font-size: 15;
