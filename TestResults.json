@@ -1,0 +1,23 @@
+{
+  "PossibleResults": [
+    {
+      "criteriaLow": {
+        "empathy": 0,
+        "extroversion": 0,
+        "patience": 0,
+        "creativity": 0,
+        "boldness": 0,
+        "tact": 0
+      },
+      "criteriaHigh": {
+        "empathy": 1,
+        "extroversion": 1,
+        "patience": 1,
+        "creativity": 1,
+        "boldness": 1,
+        "tact": 1
+      },
+      "Text":"This is just a placeholder for the text that will show up after the test has been taken. It <i>should</i> support html formatting and hyperlinks, and of course has no problems with length. The criteria list above are also placeholders, and are used to determine if a particular end of test message is displayed. Multiple message can be displayed, so each message should be tailored to one or two specific scores."
+    }
+  ]
+}
