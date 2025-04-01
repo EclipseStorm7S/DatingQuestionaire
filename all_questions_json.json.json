@@ -1,0 +1,673 @@
+{
+  "Questions": [
+    {
+      "text": "Have you been on a date in the last month?",
+      "answers": [
+        {
+          "text": "Yes, multiple times"
+        },
+        {
+          "text": "Yes, once or twice"
+        },
+        {
+          "text": "No, but I\u2019ve been trying to get one"
+        },
+        {
+          "text": "No, I haven\u2019t really tried"
+        },
+        {
+          "text": "No, I\u2019m not interested in dating right now"
+        }
+      ]
+    },
+    {
+      "text": "Do you know what you\u2019re looking for from your date?",
+      "answers": [
+        {
+          "text": "Yes, I have a clear idea of what I want in a relationship"
+        },
+        {
+          "text": "Mostly, but I\u2019m still figuring some things out"
+        },
+        {
+          "text": "Somewhat, I have a general idea but no specifics"
+        },
+        {
+          "text": "Not really, I just go with the flow"
+        },
+        {
+          "text": "No, I haven\u2019t thought about it much"
+        }
+      ]
+    },
+    {
+      "text": "Do you have something specific that you could do for a date?",
+      "answers": [
+        {
+          "text": "Yes, I have multiple date ideas ready"
+        },
+        {
+          "text": "Yes, I have at least one solid idea"
+        },
+        {
+          "text": "I have some ideas, but I\u2019d need to plan more"
+        },
+        {
+          "text": "Not really, I struggle to come up with ideas"
+        },
+        {
+          "text": "No, I have no idea what to do for a date"
+        }
+      ]
+    },
+    {
+      "text": "What is your process for trying to get a date?",
+      "answers": [
+        {
+          "text": "I actively ask people out and make plans regularly"
+        },
+        {
+          "text": "I show interest and take action when I meet someone I like"
+        },
+        {
+          "text": "I wait for opportunities to come up naturally"
+        },
+        {
+          "text": "I rarely take initiative but would like to date"
+        },
+        {
+          "text": "I don\u2019t have a process and haven\u2019t tried getting a date"
+        }
+      ]
+    },
+    {
+      "text": "How often do you attend social events and put yourself out there to meet new people?",
+      "answers": [
+        {
+          "text": "Very often \u2013 I actively seek out social opportunities and engage with new people regularly"
+        },
+        {
+          "text": "Often \u2013 I attend social events and try to meet new people when possible"
+        },
+        {
+          "text": "Sometimes \u2013 I go to social events but don\u2019t always put myself out there"
+        },
+        {
+          "text": "Rarely \u2013 I occasionally attend events but usually keep to myself"
+        },
+        {
+          "text": "Never \u2013 I don\u2019t attend social events or make an effort to meet new people"
+        }
+      ]
+    },
+    {
+      "text": "Are you somebody you would want to date?",
+      "answers": [
+        {
+          "text": "Yes, absolutely\u2014I have qualities I\u2019d appreciate in a partner"
+        },
+        {
+          "text": "Yes, for the most part, but I have things I\u2019m working on"
+        },
+        {
+          "text": "I\u2019m not sure, I have both strengths and areas to improve"
+        },
+        {
+          "text": "Not really, I feel like I need to work on myself more"
+        },
+        {
+          "text": "No, I don\u2019t think I\u2019d enjoy dating someone like me"
+        }
+      ]
+    },
+    {
+      "text": "How much do you love yourself?",
+      "answers": [
+        {
+          "text": "Completely\u2014I accept and appreciate myself fully"
+        },
+        {
+          "text": "Somewhat\u2014I generally like myself but have insecurities"
+        },
+        {
+          "text": "Neutral\u2014I don\u2019t think about it much"
+        },
+        {
+          "text": "Not very much\u2014I often struggle with self-worth"
+        },
+        {
+          "text": "Not at all\u2014I don\u2019t feel good about myself"
+        }
+      ]
+    },
+    {
+      "text": "Are you willing to compromise in a relationship?",
+      "answers": [
+        {
+          "text": "Yes, I\u2019m open to compromise and finding balance"
+        },
+        {
+          "text": "Yes, but only on certain things"
+        },
+        {
+          "text": "It depends on the situation"
+        },
+        {
+          "text": "Not really, I prefer things my way"
+        },
+        {
+          "text": "No, I struggle with compromising in relationships"
+        }
+      ]
+    },
+    {
+      "text": "How well do you understand your own emotional needs and boundaries?",
+      "answers": [
+        {
+          "text": "I know exactly what I need and how to communicate it"
+        },
+        {
+          "text": "I have some idea but struggle to express it"
+        },
+        {
+          "text": "I\u2019m still figuring out what my needs and boundaries are"
+        },
+        {
+          "text": "I often put others\u2019 needs ahead of mine and ignore my own"
+        },
+        {
+          "text": "I don\u2019t think much about my emotional needs"
+        }
+      ]
+    },
+    {
+      "text": "Are you confident in your own decisions?",
+      "answers": [
+        {
+          "text": "Yes, completely\u2014I trust myself fully"
+        },
+        {
+          "text": "Yes, somewhat\u2014I usually trust my decisions but sometimes doubt myself"
+        },
+        {
+          "text": "No, not completely\u2014I often second-guess my choices"
+        },
+        {
+          "text": "No, not at all\u2014I struggle with making and sticking to decisions"
+        }
+      ]
+    },
+    {
+      "text": "Can you comfortably hold consistent conversations with the opposite gender?",
+      "answers": [
+        {
+          "text": "Yes, very comfortably\u2014I can hold engaging conversations easily"
+        },
+        {
+          "text": "Yes, but I sometimes feel nervous or unsure"
+        },
+        {
+          "text": "Somewhat\u2014I can hold conversations but struggle with consistency"
+        },
+        {
+          "text": "No, I find it difficult and sometimes avoid it"
+        },
+        {
+          "text": "No, I feel very uncomfortable talking to the opposite gender"
+        }
+      ]
+    },
+    {
+      "text": "How likely are you to ask someone out over text rather than in person?",
+      "answers": [
+        {
+          "text": "1 - I would only ask in person"
+        },
+        {
+          "text": "2"
+        },
+        {
+          "text": "3"
+        },
+        {
+          "text": "4"
+        },
+        {
+          "text": "5 - I would only ask over text"
+        }
+      ]
+    },
+    {
+      "text": "How often do you have serious conversations with your partner?",
+      "answers": [
+        {
+          "text": "Very often\u2014we have deep conversations regularly"
+        },
+        {
+          "text": "Often\u2014we have serious talks when needed"
+        },
+        {
+          "text": "Sometimes\u2014we talk about important things occasionally"
+        },
+        {
+          "text": "Rarely\u2014we mostly keep things lighthearted"
+        },
+        {
+          "text": "Never\u2014we don\u2019t have serious conversations"
+        }
+      ]
+    },
+    {
+      "text": "How comfortable are you with expressing your feelings and thoughts in a relationship?",
+      "answers": [
+        {
+          "text": "Very comfortable\u2014I share my thoughts and feelings openly"
+        },
+        {
+          "text": "Somewhat comfortable\u2014I express myself but with some hesitation"
+        },
+        {
+          "text": "Neutral\u2014I don\u2019t avoid it, but I don\u2019t seek it out either"
+        },
+        {
+          "text": "Somewhat uncomfortable\u2014I struggle to express myself fully"
+        },
+        {
+          "text": "Very uncomfortable\u2014I rarely express my true thoughts and feelings"
+        }
+      ]
+    },
+    {
+      "text": "When someone shares their feelings with you, how do you usually respond?",
+      "answers": [
+        {
+          "text": "I listen attentively and respond thoughtfully"
+        },
+        {
+          "text": "I listen but sometimes struggle to respond appropriately"
+        },
+        {
+          "text": "I try to listen, but I get distracted or unsure of how to react"
+        },
+        {
+          "text": "I tend to change the topic or avoid deep conversations"
+        },
+        {
+          "text": "I feel uncomfortable and prefer not to engage in emotional talks"
+        }
+      ]
+    },
+    {
+      "text": "What are your expectations regarding personal growth in a relationship?",
+      "answers": [
+        {
+          "text": "I want a relationship that constantly challenges me to grow"
+        },
+        {
+          "text": "I value growth, but I prefer it to happen naturally over time"
+        },
+        {
+          "text": "I think growth is important, but not a major focus in a relationship"
+        },
+        {
+          "text": "I don\u2019t see personal growth as a priority in a relationship"
+        },
+        {
+          "text": "I haven\u2019t thought much about personal growth in relationships"
+        }
+      ]
+    },
+    {
+      "text": "What personality traits in a partner would complement you best?",
+      "answers": [
+        {
+          "text": "Someone who challenges me and helps me grow"
+        },
+        {
+          "text": "Someone who provides stability and emotional security"
+        },
+        {
+          "text": "Someone who shares my interests and lifestyle"
+        },
+        {
+          "text": "Someone who is easygoing and adaptable"
+        },
+        {
+          "text": "I\u2019m not sure what would complement me best"
+        }
+      ]
+    },
+    {
+      "text": "Do you often feel like you have to hide parts of yourself to be in a relationship?",
+      "answers": [
+        {
+          "text": "Yes, often\u2014I feel like I can\u2019t fully be myself"
+        },
+        {
+          "text": "Sometimes\u2014I hold back certain aspects of myself"
+        },
+        {
+          "text": "Rarely\u2014I try to be open, but it depends on the situation"
+        },
+        {
+          "text": "No, I feel completely comfortable being myself"
+        },
+        {
+          "text": "I\u2019ve never been in a relationship to know"
+        }
+      ]
+    },
+    {
+      "text": "What do you believe is the primary purpose of a romantic relationship?",
+      "answers": [
+        {
+          "text": "Companionship and emotional support"
+        },
+        {
+          "text": "Finding a lifelong partner"
+        },
+        {
+          "text": "Personal growth and shared experiences"
+        },
+        {
+          "text": "Having fun without serious commitment"
+        },
+        {
+          "text": "I\u2019m not sure\u2014I\u2019m still figuring that out"
+        }
+      ]
+    },
+    {
+      "text": "How much time do you expect to spend with your partner each week?",
+      "answers": [
+        {
+          "text": "Every day, as much as possible"
+        },
+        {
+          "text": "A few days a week, but we both need personal space"
+        },
+        {
+          "text": "Once or twice a week, I value independence"
+        },
+        {
+          "text": "It depends on schedules and needs"
+        },
+        {
+          "text": "I haven\u2019t thought much about this yet"
+        }
+      ]
+    },
+    {
+      "text": "How likely are you to say no to something you aren\u2019t comfortable with?",
+      "answers": [
+        {
+          "text": "1 - I struggle to say no"
+        },
+        {
+          "text": "2"
+        },
+        {
+          "text": "3"
+        },
+        {
+          "text": "4"
+        },
+        {
+          "text": "5 - I confidently set boundaries and stand by them"
+        }
+      ]
+    },
+    {
+      "text": "How do you respond to criticism?",
+      "answers": [
+        {
+          "text": "Very well \u2013 I take it constructively and use it to improve"
+        },
+        {
+          "text": "Somewhat well \u2013 I listen but sometimes feel defensive"
+        },
+        {
+          "text": "Not well \u2013 I take it personally and struggle with it"
+        },
+        {
+          "text": "Not well at all \u2013 I feel hurt and dwell on criticism for a long time"
+        }
+      ]
+    },
+    {
+      "text": "How do you handle conflict in a relationship?",
+      "answers": [
+        {
+          "text": "I avoid it and hope it goes away"
+        },
+        {
+          "text": "I confront issues directly and try to resolve them calmly"
+        },
+        {
+          "text": "I get defensive or angry when confronted"
+        },
+        {
+          "text": "I shut down emotionally and withdraw"
+        },
+        {
+          "text": "I try to compromise but struggle to express my own needs"
+        }
+      ]
+    },
+    {
+      "text": "What are the biggest red flags you should watch out for in a partner?",
+      "answers": [
+        {
+          "text": "Lack of communication or dishonesty"
+        },
+        {
+          "text": "Controlling or manipulative behavior"
+        },
+        {
+          "text": "Disrespect for boundaries and personal space"
+        },
+        {
+          "text": "All of the above"
+        },
+        {
+          "text": "I\u2019m not sure what to look out for"
+        }
+      ]
+    },
+    {
+      "text": "Are you happy?",
+      "answers": [
+        {
+          "text": "Yes, most of the time"
+        },
+        {
+          "text": "Yes, some of the time"
+        },
+        {
+          "text": "No, not most of the time"
+        },
+        {
+          "text": "No, not at all"
+        }
+      ]
+    },
+    {
+      "text": "I asked this guy/girl out, and they rejected me. I -",
+      "answers": [
+        {
+          "text": "React with anger"
+        },
+        {
+          "text": "Go cry in a corner"
+        },
+        {
+          "text": "Accept and move on"
+        },
+        {
+          "text": "Vent to a friend"
+        },
+        {
+          "text": "Keep asking"
+        }
+      ]
+    },
+    {
+      "text": "You are late for work, and somebody cuts you off in traffic; how do you respond?",
+      "answers": []
+    },
+    {
+      "text": "When faced with a difficult personal situation, how do you typically react?",
+      "answers": [
+        {
+          "text": "I remain calm and focus on finding a solution"
+        },
+        {
+          "text": "I feel stressed but try to push through"
+        },
+        {
+          "text": "I get emotionally overwhelmed and struggle to function"
+        },
+        {
+          "text": "I avoid the problem and hope it resolves itself"
+        }
+      ]
+    },
+    {
+      "text": "How do you handle criticism or constructive feedback from a partner?",
+      "answers": [
+        {
+          "text": "I appreciate it and use it as an opportunity to improve"
+        },
+        {
+          "text": "I feel defensive at first but try to reflect on it"
+        },
+        {
+          "text": "I take it personally and struggle to accept it"
+        },
+        {
+          "text": "I shut down or avoid conversations about my flaws"
+        }
+      ]
+    },
+    {
+      "text": "What is your relationship status?",
+      "answers": [
+        {
+          "text": "Single"
+        },
+        {
+          "text": "Committed relationship"
+        },
+        {
+          "text": "Engaged"
+        },
+        {
+          "text": "Married"
+        },
+        {
+          "text": "Married but separated"
+        },
+        {
+          "text": "Divorced"
+        }
+      ]
+    },
+    {
+      "text": "Have you ever been in a relationship before?",
+      "answers": [
+        {
+          "text": "Yes, multiple relationships"
+        },
+        {
+          "text": "Yes, one relationship"
+        },
+        {
+          "text": "No, I have never been in a relationship"
+        }
+      ]
+    },
+    {
+      "text": "How many relationships have you been in?",
+      "answers": [
+        {
+          "text": "1"
+        },
+        {
+          "text": "2\u20133"
+        },
+        {
+          "text": "4\u20135"
+        },
+        {
+          "text": "6 or more"
+        }
+      ]
+    },
+    {
+      "text": "How long, on average, do your relationships last?/How long did your last relationship last?",
+      "answers": [
+        {
+          "text": "1\u20132 months"
+        },
+        {
+          "text": "3\u20134 months"
+        },
+        {
+          "text": "5\u20136 months"
+        },
+        {
+          "text": "7\u201311 months"
+        },
+        {
+          "text": "A year or longer"
+        }
+      ]
+    },
+    {
+      "text": "What is your primary motivation for wanting to date?",
+      "answers": [
+        {
+          "text": "I feel lonely and want companionship"
+        },
+        {
+          "text": "I want to grow with someone and build a strong relationship"
+        },
+        {
+          "text": "I feel pressured by society, friends, or family"
+        },
+        {
+          "text": "I\u2019m looking for validation or distraction"
+        },
+        {
+          "text": "I\u2019m not sure yet what my motivation is"
+        }
+      ]
+    },
+    {
+      "text": "What traits do you find attractive in another person?",
+      "answers": [
+        {
+          "text": "Physical appearance"
+        },
+        {
+          "text": "Intelligence and intellectual connection"
+        },
+        {
+          "text": "Kindness and emotional intelligence"
+        },
+        {
+          "text": "Shared interests and hobbies"
+        },
+        {
+          "text": "Confidence and assertiveness"
+        },
+        {
+          "text": "Sense of humor and playfulness"
+        },
+        {
+          "text": "Other (please specify)"
+        }
+      ]
+    }
+  ]
+}
