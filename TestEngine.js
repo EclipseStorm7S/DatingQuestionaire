@@ -36,7 +36,7 @@ function displayQuestion() {
         const li = document.createElement("li");
         li.innerText = answer.text;
         li.addEventListener("click", () => {
-          alert(`You selected: ${answer.text}`);
+          //alert(`You selected: ${answer.text}`);
           adjustValues(answer);
         });
         answerList.appendChild(li);
@@ -44,6 +44,8 @@ function displayQuestion() {
 }
 
 function adjustValues(dataInput){
+  currentQuestionIndex++;
+  displayQuestion();
   console.log("Answer has been selected:", dataInput.text);
   console.log(dataInput);
   answerEffect = dataInput.result;

@@ -14,9 +14,12 @@ body {
   left:0vw;
   top:0vh;
   border-bottom: 3px solid ;
-  background-color: #666f80;
+  background-color: #444444;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.4);
   box-sizing: border-box;
+  display: flex;
+  justify-content: center; /* Centers horizontally */
+  align-items: center; /* Centers vertically */
 }
 #goButton {
   height: 10vh;
@@ -40,9 +43,9 @@ body {
   box-sizing: border-box;
 }
 
-#display {
-    height: 100pixels
-    width: 100pixels
+#logo {
+  height: 11vh;
+  width: 11vh;
 }
 
 h1 {
