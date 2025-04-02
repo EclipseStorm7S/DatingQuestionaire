@@ -5,7 +5,7 @@ let currentQuestionIndex = 0;
 async function loadQuestions() {
   console.log("Loading questions...");
     try {
-        const response = await fetch('https://raw.githubusercontent.com/EclipseStorm7S/DatingQuestionaire/main/QuestionsFormatDONOTEDIT.json');
+        const response = await fetch('https://raw.githubusercontent.com/EclipseStorm7S/DatingQuestionaire/main/final_questions_format.json');
         textver = await response.text();
         questions = JSON.parse(textver);
         //console.log(textver);
