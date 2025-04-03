@@ -1633,11 +1633,7 @@
     },
     {
       "text": "You are late for work, and somebody cuts you off in traffic; how do you respond?",
-      "answers": [
-        {
-          "text": "ERROR THERE ARE NO ANSWERS TO THIS QUESTION!",
-        }
-      ],
+      "answers": [],
       "criteriaLow": {
       },
       "criteriaHigh": {
