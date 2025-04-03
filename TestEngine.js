@@ -19,7 +19,7 @@ async function loadQuestions() {
 // Display the current question
 function displayQuestion() {
     if (currentQuestionIndex >= questions.Questions.length) {
-        document.getElementById("question-container").innerHTML = "<h2>Quiz Completed!</h2>";
+        document.getElementById("question-container").innerHTML = "<h2>Quiz Completed! We are compiling you results now, please wait!</h2>";
         document.getElementById("next-button").style.display = "none";
         return;
     }
