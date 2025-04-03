@@ -60,8 +60,20 @@
         }
       ],
       "criteriaLow": {
+        "empathy": 0,
+        "extroversion": 0,
+        "patience": 0,
+        "creativity": 0,
+        "boldness": 0,
+        "tact": 0
       },
       "criteriaHigh": {
+        "empathy": 1,
+        "extroversion": 1,
+        "patience": 1,
+        "creativity": 1,
+        "boldness": 1,
+        "tact": 1
       }
     },
     {
@@ -124,8 +136,20 @@
         }
       ],
       "criteriaLow": {
+        "empathy": 0,
+        "extroversion": 0,
+        "patience": 0,
+        "creativity": 0,
+        "boldness": 0,
+        "tact": 0
       },
       "criteriaHigh": {
+        "empathy": 1,
+        "extroversion": 1,
+        "patience": 1,
+        "creativity": 1,
+        "boldness": 1,
+        "tact": 1
       }
     },
     {
@@ -188,8 +212,20 @@
         }
       ],
       "criteriaLow": {
+        "empathy": 0,
+        "extroversion": 0,
+        "patience": 0,
+        "creativity": 0,
+        "boldness": 0,
+        "tact": 0
       },
       "criteriaHigh": {
+        "empathy": 1,
+        "extroversion": 1,
+        "patience": 1,
+        "creativity": 1,
+        "boldness": 1,
+        "tact": 1
       }
     },
     {
@@ -252,8 +288,20 @@
         }
       ],
       "criteriaLow": {
+        "empathy": 0,
+        "extroversion": 0,
+        "patience": 0,
+        "creativity": 0,
+        "boldness": 0,
+        "tact": 0
       },
       "criteriaHigh": {
+        "empathy": 1,
+        "extroversion": 1,
+        "patience": 1,
+        "creativity": 1,
+        "boldness": 1,
+        "tact": 1
       }
     },
     {
@@ -316,8 +364,20 @@
         }
       ],
       "criteriaLow": {
+        "empathy": 0,
+        "extroversion": 0,
+        "patience": 0,
+        "creativity": 0,
+        "boldness": 0,
+        "tact": 0
       },
       "criteriaHigh": {
+        "empathy": 1,
+        "extroversion": 1,
+        "patience": 1,
+        "creativity": 1,
+        "boldness": 1,
+        "tact": 1
       }
     },
     {
@@ -380,8 +440,20 @@
         }
       ],
       "criteriaLow": {
+        "empathy": 0,
+        "extroversion": 0,
+        "patience": 0,
+        "creativity": 0,
+        "boldness": 0,
+        "tact": 0
       },
       "criteriaHigh": {
+        "empathy": 1,
+        "extroversion": 1,
+        "patience": 1,
+        "creativity": 1,
+        "boldness": 1,
+        "tact": 1
       }
     },
     {
@@ -444,8 +516,20 @@
         }
       ],
       "criteriaLow": {
+        "empathy": 0,
+        "extroversion": 0,
+        "patience": 0,
+        "creativity": 0,
+        "boldness": 0,
+        "tact": 0
       },
       "criteriaHigh": {
+        "empathy": 1,
+        "extroversion": 1,
+        "patience": 1,
+        "creativity": 1,
+        "boldness": 1,
+        "tact": 1
       }
     },
     {
@@ -508,8 +592,20 @@
         }
       ],
       "criteriaLow": {
+        "empathy": 0,
+        "extroversion": 0,
+        "patience": 0,
+        "creativity": 0,
+        "boldness": 0,
+        "tact": 0
       },
       "criteriaHigh": {
+        "empathy": 1,
+        "extroversion": 1,
+        "patience": 1,
+        "creativity": 1,
+        "boldness": 1,
+        "tact": 1
       }
     },
     {
@@ -572,8 +668,20 @@
         }
       ],
       "criteriaLow": {
+        "empathy": 0,
+        "extroversion": 0,
+        "patience": 0,
+        "creativity": 0,
+        "boldness": 0,
+        "tact": 0
       },
       "criteriaHigh": {
+        "empathy": 1,
+        "extroversion": 1,
+        "patience": 1,
+        "creativity": 1,
+        "boldness": 1,
+        "tact": 1
       }
     },
     {
@@ -625,8 +733,20 @@
         }
       ],
       "criteriaLow": {
+        "empathy": 0,
+        "extroversion": 0,
+        "patience": 0,
+        "creativity": 0,
+        "boldness": 0,
+        "tact": 0
       },
       "criteriaHigh": {
+        "empathy": 1,
+        "extroversion": 1,
+        "patience": 1,
+        "creativity": 1,
+        "boldness": 1,
+        "tact": 1
       }
     },
     {
@@ -689,8 +809,20 @@
         }
       ],
       "criteriaLow": {
+        "empathy": 0,
+        "extroversion": 0,
+        "patience": 0,
+        "creativity": 0,
+        "boldness": 0,
+        "tact": 0
       },
       "criteriaHigh": {
+        "empathy": 1,
+        "extroversion": 1,
+        "patience": 1,
+        "creativity": 1,
+        "boldness": 1,
+        "tact": 1
       }
     },
     {
@@ -753,8 +885,20 @@
         }
       ],
       "criteriaLow": {
+        "empathy": 0,
+        "extroversion": 0,
+        "patience": 0,
+        "creativity": 0,
+        "boldness": 0,
+        "tact": 0
       },
       "criteriaHigh": {
+        "empathy": 1,
+        "extroversion": 1,
+        "patience": 1,
+        "creativity": 1,
+        "boldness": 1,
+        "tact": 1
       }
     },
     {
@@ -817,8 +961,20 @@
         }
       ],
       "criteriaLow": {
+        "empathy": 0,
+        "extroversion": 0,
+        "patience": 0,
+        "creativity": 0,
+        "boldness": 0,
+        "tact": 0
       },
       "criteriaHigh": {
+        "empathy": 1,
+        "extroversion": 1,
+        "patience": 1,
+        "creativity": 1,
+        "boldness": 1,
+        "tact": 1
       }
     },
     {
@@ -881,8 +1037,20 @@
         }
       ],
       "criteriaLow": {
+        "empathy": 0,
+        "extroversion": 0,
+        "patience": 0,
+        "creativity": 0,
+        "boldness": 0,
+        "tact": 0
       },
       "criteriaHigh": {
+        "empathy": 1,
+        "extroversion": 1,
+        "patience": 1,
+        "creativity": 1,
+        "boldness": 1,
+        "tact": 1
       }
     },
     {
@@ -945,8 +1113,20 @@
         }
       ],
       "criteriaLow": {
+        "empathy": 0,
+        "extroversion": 0,
+        "patience": 0,
+        "creativity": 0,
+        "boldness": 0,
+        "tact": 0
       },
       "criteriaHigh": {
+        "empathy": 1,
+        "extroversion": 1,
+        "patience": 1,
+        "creativity": 1,
+        "boldness": 1,
+        "tact": 1
       }
     },
     {
@@ -1009,8 +1189,20 @@
         }
       ],
       "criteriaLow": {
+        "empathy": 0,
+        "extroversion": 0,
+        "patience": 0,
+        "creativity": 0,
+        "boldness": 0,
+        "tact": 0
       },
       "criteriaHigh": {
+        "empathy": 1,
+        "extroversion": 1,
+        "patience": 1,
+        "creativity": 1,
+        "boldness": 1,
+        "tact": 1
       }
     },
     {
@@ -1073,8 +1265,20 @@
         }
       ],
       "criteriaLow": {
+        "empathy": 0,
+        "extroversion": 0,
+        "patience": 0,
+        "creativity": 0,
+        "boldness": 0,
+        "tact": 0
       },
       "criteriaHigh": {
+        "empathy": 1,
+        "extroversion": 1,
+        "patience": 1,
+        "creativity": 1,
+        "boldness": 1,
+        "tact": 1
       }
     },
     {
@@ -1137,8 +1341,20 @@
         }
       ],
       "criteriaLow": {
+        "empathy": 0,
+        "extroversion": 0,
+        "patience": 0,
+        "creativity": 0,
+        "boldness": 0,
+        "tact": 0
       },
       "criteriaHigh": {
+        "empathy": 1,
+        "extroversion": 1,
+        "patience": 1,
+        "creativity": 1,
+        "boldness": 1,
+        "tact": 1
       }
     },
     {
@@ -1201,8 +1417,20 @@
         }
       ],
       "criteriaLow": {
+        "empathy": 0,
+        "extroversion": 0,
+        "patience": 0,
+        "creativity": 0,
+        "boldness": 0,
+        "tact": 0
       },
       "criteriaHigh": {
+        "empathy": 1,
+        "extroversion": 1,
+        "patience": 1,
+        "creativity": 1,
+        "boldness": 1,
+        "tact": 1
       }
     },
     {
@@ -1265,8 +1493,20 @@
         }
       ],
       "criteriaLow": {
+        "empathy": 0,
+        "extroversion": 0,
+        "patience": 0,
+        "creativity": 0,
+        "boldness": 0,
+        "tact": 0
       },
       "criteriaHigh": {
+        "empathy": 1,
+        "extroversion": 1,
+        "patience": 1,
+        "creativity": 1,
+        "boldness": 1,
+        "tact": 1
       }
     },
     {
@@ -1329,8 +1569,20 @@
         }
       ],
       "criteriaLow": {
+        "empathy": 0,
+        "extroversion": 0,
+        "patience": 0,
+        "creativity": 0,
+        "boldness": 0,
+        "tact": 0
       },
       "criteriaHigh": {
+        "empathy": 1,
+        "extroversion": 1,
+        "patience": 1,
+        "creativity": 1,
+        "boldness": 1,
+        "tact": 1
       }
     },
     {
@@ -1382,8 +1634,20 @@
         }
       ],
       "criteriaLow": {
+        "empathy": 0,
+        "extroversion": 0,
+        "patience": 0,
+        "creativity": 0,
+        "boldness": 0,
+        "tact": 0
       },
       "criteriaHigh": {
+        "empathy": 1,
+        "extroversion": 1,
+        "patience": 1,
+        "creativity": 1,
+        "boldness": 1,
+        "tact": 1
       }
     },
     {
@@ -1446,8 +1710,20 @@
         }
       ],
       "criteriaLow": {
+        "empathy": 0,
+        "extroversion": 0,
+        "patience": 0,
+        "creativity": 0,
+        "boldness": 0,
+        "tact": 0
       },
       "criteriaHigh": {
+        "empathy": 1,
+        "extroversion": 1,
+        "patience": 1,
+        "creativity": 1,
+        "boldness": 1,
+        "tact": 1
       }
     },
     {
@@ -1510,8 +1786,20 @@
         }
       ],
       "criteriaLow": {
+        "empathy": 0,
+        "extroversion": 0,
+        "patience": 0,
+        "creativity": 0,
+        "boldness": 0,
+        "tact": 0
       },
       "criteriaHigh": {
+        "empathy": 1,
+        "extroversion": 1,
+        "patience": 1,
+        "creativity": 1,
+        "boldness": 1,
+        "tact": 1
       }
     },
     {
@@ -1563,8 +1851,20 @@
         }
       ],
       "criteriaLow": {
+        "empathy": 0,
+        "extroversion": 0,
+        "patience": 0,
+        "creativity": 0,
+        "boldness": 0,
+        "tact": 0
       },
       "criteriaHigh": {
+        "empathy": 1,
+        "extroversion": 1,
+        "patience": 1,
+        "creativity": 1,
+        "boldness": 1,
+        "tact": 1
       }
     },
     {
@@ -1627,25 +1927,40 @@
         }
       ],
       "criteriaLow": {
+        "empathy": 0,
+        "extroversion": 0,
+        "patience": 0,
+        "creativity": 0,
+        "boldness": 0,
+        "tact": 0
       },
       "criteriaHigh": {
+        "empathy": 1,
+        "extroversion": 1,
+        "patience": 1,
+        "creativity": 1,
+        "boldness": 1,
+        "tact": 1
       }
     },
     {
       "text": "You are late for work, and somebody cuts you off in traffic; how do you respond?",
-      "answers": [
-        "text": "ERROR THERE ARE NO ANSWERS TO THIS QUESTION!",
-        "result": {
-          "empathy": 0.1,
-          "extroversion": 0.1,
-          "patience": 0.1,
-          "creativity": 0.1,
-          "boldness": 0.1,
-          "tact": 0.1
-        }],
+      "answers": [],
       "criteriaLow": {
+        "empathy": 0,
+        "extroversion": 0,
+        "patience": 0,
+        "creativity": 0,
+        "boldness": 0,
+        "tact": 0
       },
       "criteriaHigh": {
+        "empathy": 1,
+        "extroversion": 1,
+        "patience": 1,
+        "creativity": 1,
+        "boldness": 1,
+        "tact": 1
       }
     },
     {
@@ -1697,8 +2012,20 @@
         }
       ],
       "criteriaLow": {
+        "empathy": 0,
+        "extroversion": 0,
+        "patience": 0,
+        "creativity": 0,
+        "boldness": 0,
+        "tact": 0
       },
       "criteriaHigh": {
+        "empathy": 1,
+        "extroversion": 1,
+        "patience": 1,
+        "creativity": 1,
+        "boldness": 1,
+        "tact": 1
       }
     },
     {
@@ -1750,8 +2077,20 @@
         }
       ],
       "criteriaLow": {
+        "empathy": 0,
+        "extroversion": 0,
+        "patience": 0,
+        "creativity": 0,
+        "boldness": 0,
+        "tact": 0
       },
       "criteriaHigh": {
+        "empathy": 1,
+        "extroversion": 1,
+        "patience": 1,
+        "creativity": 1,
+        "boldness": 1,
+        "tact": 1
       }
     },
     {
@@ -1825,8 +2164,20 @@
         }
       ],
       "criteriaLow": {
+        "empathy": 0,
+        "extroversion": 0,
+        "patience": 0,
+        "creativity": 0,
+        "boldness": 0,
+        "tact": 0
       },
       "criteriaHigh": {
+        "empathy": 1,
+        "extroversion": 1,
+        "patience": 1,
+        "creativity": 1,
+        "boldness": 1,
+        "tact": 1
       }
     },
     {
@@ -1867,8 +2218,20 @@
         }
       ],
       "criteriaLow": {
+        "empathy": 0,
+        "extroversion": 0,
+        "patience": 0,
+        "creativity": 0,
+        "boldness": 0,
+        "tact": 0
       },
       "criteriaHigh": {
+        "empathy": 1,
+        "extroversion": 1,
+        "patience": 1,
+        "creativity": 1,
+        "boldness": 1,
+        "tact": 1
       }
     },
     {
@@ -1920,8 +2283,20 @@
         }
       ],
       "criteriaLow": {
+        "empathy": 0,
+        "extroversion": 0,
+        "patience": 0,
+        "creativity": 0,
+        "boldness": 0,
+        "tact": 0
       },
       "criteriaHigh": {
+        "empathy": 1,
+        "extroversion": 1,
+        "patience": 1,
+        "creativity": 1,
+        "boldness": 1,
+        "tact": 1
       }
     },
     {
@@ -1984,8 +2359,20 @@
         }
       ],
       "criteriaLow": {
+        "empathy": 0,
+        "extroversion": 0,
+        "patience": 0,
+        "creativity": 0,
+        "boldness": 0,
+        "tact": 0
       },
       "criteriaHigh": {
+        "empathy": 1,
+        "extroversion": 1,
+        "patience": 1,
+        "creativity": 1,
+        "boldness": 1,
+        "tact": 1
       }
     },
     {
@@ -2048,8 +2435,20 @@
         }
       ],
       "criteriaLow": {
+        "empathy": 0,
+        "extroversion": 0,
+        "patience": 0,
+        "creativity": 0,
+        "boldness": 0,
+        "tact": 0
       },
       "criteriaHigh": {
+        "empathy": 1,
+        "extroversion": 1,
+        "patience": 1,
+        "creativity": 1,
+        "boldness": 1,
+        "tact": 1
       }
     },
     {
@@ -2134,8 +2533,20 @@
         }
       ],
       "criteriaLow": {
+        "empathy": 0,
+        "extroversion": 0,
+        "patience": 0,
+        "creativity": 0,
+        "boldness": 0,
+        "tact": 0
       },
       "criteriaHigh": {
+        "empathy": 1,
+        "extroversion": 1,
+        "patience": 1,
+        "creativity": 1,
+        "boldness": 1,
+        "tact": 1
       }
     }
   ]
