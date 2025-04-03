@@ -7,8 +7,8 @@ async function loadQuestions() {
     try {
         const response = await fetch('https://raw.githubusercontent.com/EclipseStorm7S/DatingQuestionaire/main/final_questions_format.json');
         textver = await response.text();
+        console.log(textver);
         questions = JSON.parse(textver);
-        //console.log(textver);
         console.log(questions);
         displayQuestion();
     } catch (error) {
