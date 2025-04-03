@@ -5,7 +5,7 @@ let currentQuestionIndex = 0;
 async function loadQuestions() {
   console.log("Loading questions...");
     try {
-        const response = await fetch('https://raw.githubusercontent.com/EclipseStorm7S/DatingQuestionaire/main/QuestionsFormatDONOTEDIT.json');
+        const response = await fetch('https://raw.githubusercontent.com/EclipseStorm7S/DatingQuestionaire/main/final_questions_format.json');
         textver = await response.text();
         questions = JSON.parse(textver);
         //console.log(textver);
@@ -19,7 +19,7 @@ async function loadQuestions() {
 // Display the current question
 function displayQuestion() {
     if (currentQuestionIndex >= questions.Questions.length) {
-        document.getElementById("question-container").innerHTML = "<h2>Quiz Completed! We are compilling your results now, please wait.</h2>";
+        document.getElementById("question-container").innerHTML = "<h2>Quiz Completed!</h2>";
         document.getElementById("next-button").style.display = "none";
         return;
     }
